@@ -1,0 +1,5 @@
+Coin,Price,Volume,Price_after_2pct
+Bitcoin,45000.0,15000,45900.0
+Ethereum,3000.0,60000,3060.0
+Ripple,0.85,200000,0.867
+Litecoin,120.0,50000,122.4
